@@ -1,0 +1,15 @@
+#BlueJ class context
+comment0.target=CustomerContainer
+comment1.params=
+comment1.target=CustomerContainer()
+comment2.params=
+comment2.target=CustomerContainer\ getInstance()
+comment3.params=c
+comment3.target=java.lang.String\ generateKey(Customer)
+comment4.params=customer
+comment4.target=void\ createCustomer(Customer)
+comment5.params=customer
+comment5.target=void\ deleteCustomer(Customer)
+comment6.params=key
+comment6.target=java.util.ArrayList\ searchCustomer(java.lang.String)
+numComments=7

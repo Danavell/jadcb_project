@@ -1,0 +1,21 @@
+#BlueJ class context
+comment0.target=ItemController
+comment1.params=
+comment1.target=ItemController()
+comment2.params=stock\ i\ amount\ name\ prod
+comment2.target=int\ add(int,\ int,\ int,\ java.lang.String,\ modellayer.Product)
+comment3.params=s\ p
+comment3.target=java.lang.String\ getSearchString(int,\ java.lang.String)
+comment4.params=
+comment4.target=int\ last()
+comment5.params=p
+comment5.target=java.util.ArrayList\ getAll(java.lang.String)
+comment6.params=p
+comment6.target=java.util.ArrayList\ getSingle(java.lang.String)
+comment7.params=p
+comment7.target=java.util.ArrayList\ getMultiple(java.lang.String)
+comment8.params=index\ amount
+comment8.target=void\ changeStock(int,\ int)
+comment9.params=index
+comment9.target=int\ checkStock(int)
+numComments=10

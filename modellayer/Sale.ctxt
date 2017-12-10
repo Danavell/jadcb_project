@@ -1,0 +1,23 @@
+#BlueJ class context
+comment0.target=Sale
+comment1.params=amount\ item
+comment1.target=Sale(int,\ Item)
+comment10.params=cust
+comment10.target=void\ addCustomer(Customer)
+comment2.params=
+comment2.target=java.lang.String\ bill()
+comment3.params=i
+comment3.target=boolean\ deleteItemLine(int)
+comment4.params=
+comment4.target=int\ getSerial()
+comment5.params=
+comment5.target=Action\ getAction()
+comment6.params=
+comment6.target=java.lang.String\ getCSP()
+comment7.params=
+comment7.target=java.lang.String\ getBill()
+comment8.params=
+comment8.target=java.lang.String\ runningDisplay()
+comment9.params=s
+comment9.target=void\ setStatus(java.lang.String)
+numComments=11

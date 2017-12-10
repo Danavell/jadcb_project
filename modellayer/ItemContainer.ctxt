@@ -1,0 +1,17 @@
+#BlueJ class context
+comment0.target=ItemContainer
+comment1.params=
+comment1.target=ItemContainer()
+comment2.params=item
+comment2.target=void\ addSingle(Item)
+comment3.params=item
+comment3.target=void\ addPackage(Item)
+comment4.params=itemLine
+comment4.target=void\ addItemLine(ItemLine)
+comment5.params=prefix
+comment5.target=java.util.ArrayList\ getSingle(java.lang.String)
+comment6.params=prefix
+comment6.target=java.util.ArrayList\ getMultiple(java.lang.String)
+comment7.params=i
+comment7.target=boolean\ getSpecific(int)
+numComments=8

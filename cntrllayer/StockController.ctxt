@@ -1,0 +1,18 @@
+#BlueJ class context
+comment0.target=StockController
+comment1.params=
+comment1.target=StockController()
+comment1.text=\r\n\ Constructor\ for\ objects\ of\ class\ StockController\r\n
+comment2.params=stock\ i\ name\ price\ barcode\ amount
+comment2.target=int\ create(int,\ int,\ java.lang.String,\ double,\ java.lang.String,\ int)
+comment3.params=amount
+comment3.target=int\ addStock(int)
+comment4.params=
+comment4.target=int\ last()
+comment5.params=
+comment5.target=int\ delete()
+comment6.params=i\ amount
+comment6.target=void\ changeStock(int,\ int)
+comment7.params=i
+comment7.target=int\ checkStock(int)
+numComments=8

@@ -1,0 +1,13 @@
+#BlueJ class context
+comment0.target=EmployeeContainer
+comment1.params=
+comment1.target=EmployeeContainer()
+comment2.params=
+comment2.target=EmployeeContainer\ getInstance()
+comment3.params=employee
+comment3.target=void\ createEmployee(Employee)
+comment4.params=employee
+comment4.target=void\ deleteEmployee(Employee)
+comment5.params=login\ password
+comment5.target=Employee\ loginEmployee(java.lang.String,\ java.lang.String)
+numComments=6

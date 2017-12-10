@@ -1,0 +1,17 @@
+#BlueJ class context
+comment0.target=Stock
+comment1.params=
+comment1.target=Stock()
+comment2.params=
+comment2.target=Stock\ getInstance()
+comment3.params=i\ amount
+comment3.target=void\ decrease(int,\ int)
+comment4.params=i
+comment4.target=int\ add(int)
+comment5.params=i
+comment5.target=int\ check(int)
+comment6.params=
+comment6.target=int\ last()
+comment7.params=s\ i
+comment7.target=int\ delete(int,\ int)
+numComments=8
